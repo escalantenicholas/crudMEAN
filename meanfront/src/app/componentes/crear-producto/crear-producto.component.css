@@ -1,0 +1,10 @@
+.titulo {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-danger {
+    text-align: start;
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 12px;
+}
